@@ -1,6 +1,6 @@
 # Anagram Generator
 
-Este projeto é uma aplicação em Java que gera todos os anagramas possíveis para uma dada string de entrada, validando a entrada antes de processá-la. A seguir, está a explicação detalhada de como o código funciona, juntamente com instruções de como usá-lo e como contribuir.
+Este projeto é uma aplicação em Java que gera todos os anagramas possíveis para uma dada string de entrada, validando a entrada antes de processá-la.
 
 ## Funcionalidade
 
